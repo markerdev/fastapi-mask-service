@@ -1,7 +1,8 @@
 fastapi[all]
+uvicorn
+torch
+torchvision
+transformers
+Pillow
+opencv-python-headless
 numpy
-pydantic
-base64
-io
-PIL
-cv2
