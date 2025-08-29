@@ -1,1 +1,7 @@
 fastapi[all]
+numpy
+pydantic
+base64
+io
+PIL
+cv2
